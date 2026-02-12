@@ -39,7 +39,7 @@
 
 ## 🏗️ How It Works
 
-```mermaid
+```
 graph LR
     A[User Input] --> B[Manager Agent]
     B --> C[Architecture Agent]
